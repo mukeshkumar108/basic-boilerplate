@@ -11,3 +11,9 @@ Opinionated to my workflow.
 * basic folder structure 
 * live server to watch & build changes
 * build process
+
+## To Do
+
+* Add basic typography defaults
+* Add basic spcaing defaults
+* Add basic defaults and variables
