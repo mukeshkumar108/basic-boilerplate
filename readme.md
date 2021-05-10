@@ -15,5 +15,5 @@ Opinionated to my workflow.
 ## To Do
 
 * Add basic typography defaults
-* Add basic spcaing defaults
+* Add basic spacing defaults
 * Add basic defaults and variables
