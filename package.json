@@ -1,0 +1,25 @@
+{
+  "name": "basic-boilerplate",
+  "version": "1.0.0",
+  "description": "A basic HTML / SCSS boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukeshkumar108/basic-boilerplate.git"
+  },
+  "author": "Mukesh Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mukeshkumar108/basic-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mukeshkumar108/basic-boilerplate#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "node-sass-chokidar": "^1.5.0",
+    "normalize.css": "^8.0.1",
+    "npm-run-all": "^4.1.5"
+  }
+}
